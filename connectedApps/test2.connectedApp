@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ConnectedApp xmlns="http://soap.sforce.com/2006/04/metadata">
+    <contactEmail>ankita.chopra@infosys.com</contactEmail>
+    <label>test2</label>
+    <oauthConfig>
+        <callbackUrl>https://test.saleforce.com/services/oauth/token</callbackUrl>
+        <consumerKey>3MVG9ZL0ppGP5UrAG.wZ5uo_kOvl45_7pI1vZ2SQVXYq_Nt3xrI5t2MC1uSi9inD9y.WjsOn7KSeXhQtKykv9</consumerKey>
+        <scopes>Api</scopes>
+        <scopes>Web</scopes>
+        <scopes>RefreshToken</scopes>
+    </oauthConfig>
+</ConnectedApp>
